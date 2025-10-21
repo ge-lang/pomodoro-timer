@@ -1,7 +1,3 @@
-## 3. 🍅 FocusFlow Pomodoro Timer
-
-### **GitHub README.md**
-```markdown
 # 🍅 FocusFlow - Pomodoro Timer & Task Manager
 
 A productivity application combining the Pomodoro technique with task management to help you stay focused and organized.
